@@ -1,0 +1,15 @@
+# Compiled output
+out/
+target/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.iws
+*.ipr
+
+# OS files
+.DS_Store
+Thumbs.db
